@@ -611,7 +611,7 @@ form button {
     }
 
     .needCard {
-        width: 90vw;
+        width: 100vw;
     }
 
     .card {
@@ -637,7 +637,7 @@ form button {
     }
 
     .card {
-        height: 30vh;
+        height: 45vh;
     }
 
     .bgImage {
@@ -708,6 +708,7 @@ form button {
 
     .card {
         height: 55vh;
+        padding: 20px 10px 20px 10px;
     }
 
     .leftNavbar {
@@ -762,6 +763,7 @@ form button {
 
     .show {
         display: block;
+        height: 130px;
     }
 }
 
@@ -922,6 +924,10 @@ form button {
 
     .qualityBox {
         padding: 20px;
+    }
+
+    .name input {
+        padding: 19px 50px 19px 10px;
     }
 }
 
